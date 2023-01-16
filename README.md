@@ -3,7 +3,7 @@
 ![etudy](https://user-images.githubusercontent.com/90092056/212763292-48df298f-1fa2-4050-807d-e33175e22e59.png)
 
 
-Description
+Description:
 
 Our mobile application aims to facilitate communication and collaboration between students and teachers in a study center. It allows users to:
 
@@ -13,7 +13,7 @@ Our mobile application aims to facilitate communication and collaboration betwee
  View teacher grades and comments
  Receive important notifications
 
-Features
+Features:
 
  Calendar of courses and important events
  Discussion groups for each course
@@ -21,7 +21,7 @@ Features
  View teacher grades and comments
  Push notifications for important announcements and course updates
 
-How to use the app
+How to use the app:
 
  Download the APK app
  Log in using your student credentials
