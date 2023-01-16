@@ -27,17 +27,9 @@ How to use the app:
  Log in using your student credentials
  Navigate through the different sections to view the calendar, chat with teachers and other students, share files and documents, view notes and comments from   teachers, and receive important notifications
  
+ 
 Requirements:
 
-  SDk version >2.18.2 <3.0.0
-  
-  cupertino_icons: ^1.0.2
-  
-  firebase_core: ^2.4.1
-  
-  firebase_auth: ^4.2.5
-  
-  cloud_firestore: ^4.3.1
-  
-  validators: ^3.0.0
+  SDK version >2.18.2 <3.0.0
+
   
