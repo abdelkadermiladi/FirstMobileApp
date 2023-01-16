@@ -5,29 +5,29 @@
 
 Description
 
-Notre application mobile a pour but de faciliter la communication et la collaboration entre les élèves et les enseignants dans un centre d'étude. Elle permet aux utilisateurs de :
+Our mobile application aims to facilitate communication and collaboration between students and teachers in a study center. It allows users to:
 
-    Consulter le calendrier des cours et des événements importants
-    Discuter avec les enseignants et les autres élèves via des groupes de discussion
-    Partager des fichiers et des documents pertinents
-    Consulter les notes et les commentaires des enseignants
-    Recevoir des notifications importantes
+ Consult the calendar of courses and important events
+ Chat with teachers and other students via chat groups
+ Share relevant files and documents
+ View teacher grades and comments
+ Receive important notifications
 
-Fonctionnalités
+Features
 
-    Calendrier des cours et des événements importants
-    Groupes de discussion pour chaque cours
-    Partage de fichiers et de documents
-    Consultation de notes et de commentaires des enseignants
-    Notifications push pour les annonces importantes et les mises à jour des cours
+ Calendar of courses and important events
+ Discussion groups for each course
+ Sharing files and documents
+ View teacher grades and comments
+ Push notifications for important announcements and course updates
 
-Comment utiliser l'application
+How to use the app
 
-    Téléchargez l'application APK
-    Connectez-vous à l'aide de vos informations d'identification étudiantes
-    Naviguez à travers les différentes sections pour consulter le calendrier, discuter avec les enseignants et les autres élèves, partager des fichiers et des documents, consulter les notes et les commentaires des enseignants, et recevoir des notifications importantes
-
-Remarque
+ Download the APK app
+ Log in using your student credentials
+ Navigate through the different sections to view the calendar, chat with teachers and other students, share files and documents, view notes and comments from   teachers, and receive important notifications
+ 
+Requirements:
 
   SDk version >2.18.2 <3.0.0
   
