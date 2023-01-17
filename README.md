@@ -5,7 +5,9 @@
 
 Description:
 
-Our mobile application aims to facilitate communication and collaboration between students and teachers in a study center. It allows users to:
+Our mobile application aims to facilitate communication and collaboration between students and teachers in a study center. 
+
+It allows users to:
 
  Consult the calendar of courses and important events
  Chat with teachers and other students via chat groups
