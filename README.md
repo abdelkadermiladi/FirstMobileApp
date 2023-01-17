@@ -10,7 +10,6 @@ Our mobile application aims to facilitate communication and collaboration betwee
  Consult the calendar of courses and important events
  Chat with teachers and other students via chat groups
  Share relevant files and documents
- View teacher grades and comments
  Receive important notifications
 
 Features:
@@ -23,9 +22,9 @@ Features:
 
 How to use the app:
 
- Download the APK app
- Log in using your student credentials
- Navigate through the different sections to view the calendar, chat with teachers and other students, share files and documents, view notes and comments from   teachers, and receive important notifications
+ 1) Download the APK app 
+ 2) SignIn or SignUp (available for both Student and Teacher)
+ 3) Navigate through the different sections to view the calendar, chat with teachers and other students, share files and documents, and receive important notifications
  
  
 Requirements:
