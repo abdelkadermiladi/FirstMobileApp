@@ -22,9 +22,9 @@ Features:
 
 How to use the app:
 
- 1) Download the APK app 
+ 1) Download the APK app ( run the " flutter build apk --release " command )
  2) SignIn or SignUp (available for both Student and Teacher)
- 3) Navigate through the different sections to view the calendar, chat with teachers and other students, share files and documents, and receive important notifications
+ 3) Navigate through the different sections to view the calendar, chat with teachers and other students, share files and documents, and receive important notifications.
  
  
 Requirements:
